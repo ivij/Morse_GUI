@@ -244,7 +244,7 @@ def Blink(letter):
                 longDash()
                 shortDash()
 
-        if letter =="9":
+        if letter =="0":
                 longDash()
                 longDash()
                 longDash()
